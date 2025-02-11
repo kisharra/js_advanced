@@ -1,0 +1,14 @@
+# Node.js dependencies
+/node_modules/
+
+# Test coverage reports
+/coverage/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.idea/
+.vscode/
+
